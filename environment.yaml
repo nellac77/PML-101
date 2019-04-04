@@ -1,0 +1,21 @@
+name: MachineLearning
+channels:
+  - defaults
+dependencies:
+- python=3.6
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+- notebook
+- seaborn
+- graphviz
+- pillow
+- python-graphviz
+- hvplot
+- numba
+- panel
+- pyct
+- colorcet
+prefix: /home/nellac77/anaconda3/envs/MachineLearning
+
